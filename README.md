@@ -13,3 +13,8 @@ Learn more about TinkerCAD here: https://www.tinkercad.com/
   </details>
   
 ## PROJECTS
+
+
+Get involved [^1].You can contribute to this project by sharing your projects.
+
+[^1]: Get Involved.
