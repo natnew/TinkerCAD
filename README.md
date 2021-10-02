@@ -14,6 +14,10 @@ Learn more about TinkerCAD here: https://www.tinkercad.com/
   
 ## PROJECTS
 
+![](https://github.com/natnew/TinkerCAD/blob/main/Tinker%20001.JPG)
+![](https://github.com/natnew/TinkerCAD/blob/main/Tinker%20002.JPG)
+![](https://github.com/natnew/TinkerCAD/blob/main/Tinker%20003.JPG)
+
 
 Get involved [^1].You can contribute to this project by sharing your projects.
 
