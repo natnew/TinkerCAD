@@ -8,4 +8,8 @@ TinkerCAD projects created by natnew.
 
 Learn more about TinkerCAD here: https://www.tinkercad.com/
 
+<details>
+  <summary> About Me </summary>
+  </details>
+  
 ## PROJECTS
