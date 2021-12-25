@@ -6,6 +6,8 @@ TinkerCAD projects created by natnew.
 
 ![](https://github.com/natnew/TinkerCAD/blob/main/Tinkercad.JPG)
 
+This repo contains **3D Designs, Circuits and Codeblocks**.
+
 Learn more about TinkerCAD here: https://www.tinkercad.com/
 
 <details>
